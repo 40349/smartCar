@@ -31,5 +31,8 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
-clone by 110360250 
+---------------------------------------------------------------------------------------------------------------------------
+Homework CH0-3 110360250
+from:https://github.com/smartCarLab/smartCar
+
 
