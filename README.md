@@ -33,6 +33,7 @@ before and after using the application.
 
 ---------------------------------------------------------------------------------------------------------------------------
 Homework CH0-3 110360250
-from:https://github.com/smartCarLab/smartCar
+
+resource from: https://github.com/smartCarLab/smartCar
 
 
